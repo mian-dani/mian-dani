@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mian-dani" alt="mian-dani" /></a> </p>
 
-- 🔭 I’m currently working as a **Backend Developer**
+- 🔭 I’m currently working as a **Sr FrontEnd Developer**
 
-- 👨‍💻 All of my projects are available at [github.com/mian-dani/](github.com/mian-dani/)
+- 👨‍💻 All of my projects are available at [github.com/mian-dani/](danishali.site/projects)
 
-- 📝 I regularly write articles on [My Portfolio](My Portfolio)
+- 📝 I regularly write articles on [My Portfolio](danishali.site)
 
 - 💬 Ask me about **Laravel, Node, Next.js, MySql/MongoDB**
 
 - 📫 How to reach me **miandaniofficial@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10BVr9da05DOSvnudbzSOCk0EYtyfGQMs/view?usp=drive_link](https://drive.google.com/file/d/10BVr9da05DOSvnudbzSOCk0EYtyfGQMs/view?usp=drive_link)
+- 📄 Know about my experiences (danishali.site/experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
